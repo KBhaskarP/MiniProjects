@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Flash Card" />
+      <excludeFolder url="file://$MODULE_DIR$/NATO-alphabet-start" />
+      <excludeFolder url="file://$MODULE_DIR$/Pomodoro" />
+      <excludeFolder url="file://$MODULE_DIR$/Quizzler" />
+      <excludeFolder url="file://$MODULE_DIR$/Space_stn" />
+      <excludeFolder url="file://$MODULE_DIR$/Talking Dictionary" />
+      <excludeFolder url="file://$MODULE_DIR$/Turtle_crossing_game" />
+      <excludeFolder url="file://$MODULE_DIR$/US states" />
+      <excludeFolder url="file://$MODULE_DIR$/files_read_write" />
+      <excludeFolder url="file://$MODULE_DIR$/list_comprehension" />
+      <excludeFolder url="file://$MODULE_DIR$/miles_calculator" />
+      <excludeFolder url="file://$MODULE_DIR$/mm" />
+      <excludeFolder url="file://$MODULE_DIR$/oops" />
+      <excludeFolder url="file://$MODULE_DIR$/pommadora timer" />
+      <excludeFolder url="file://$MODULE_DIR$/pong_game" />
+      <excludeFolder url="file://$MODULE_DIR$/pwd_manager" />
+      <excludeFolder url="file://$MODULE_DIR$/snake_game" />
+      <excludeFolder url="file://$MODULE_DIR$/tkinter" />
+      <excludeFolder url="file://$MODULE_DIR$/turtle_pr.py" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
